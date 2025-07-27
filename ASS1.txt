@@ -1,0 +1,47 @@
+Hello everyone! 👋
+
+In this week's assignment, you’ll practice the concepts we covered in class:
+Variables & Data Types
+Operators (Arithmetic)
+alert() and prompt()
+Type Coercion
+
+
+Please submit your solution in a single .js file, and submit your solution before Tomorrow 08:00 PM.
+Create variables for:
+Your name (string)
+Your age (number)
+Whether you're a student (boolean)
+Your GPA (decimal)
+Use console.log and typeof to print the values and their types.
+Ask the user for their name using prompt.
+Show a welcome message using alert:
+"Hello, [name]!"
+
+Write your predictions as comments before running each line:
+
+console.log("5" + 1); // ? 
+console.log("5" - 1); // ? 
+console.log(true + 1); // ? 
+console.log(false + "false"); // ? 
+console.log(null + 1); // ?
+
+Then write a short explanation for each result (1–2 lines).
+
+
+Ask the user for their birth year using prompt.
+Calculate their age based on the current year (2025).
+Show an alert: "You are X years old."
+Example: user entered 1999, Expected output: 2025 - 1999 = 26
+Ask the user to enter 2 numbers
+Calculate and log:
+Sum
+Difference
+Product
+Division
+Remainder
+✅ Submission Instructions
+Save your code in a .js file.
+Add comments where needed to explain your logic.
+Submit the file or link via Google Classroom .
+Let me know if you have any questions. Happy coding! 🚀
